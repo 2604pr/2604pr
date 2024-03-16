@@ -1,11 +1,9 @@
-### Hi there, I'm Piyush👦,
-A Full Stack Web developer🎯 and designer🎨 from India.
+### Hi there, I'm Pranshu👦,
+A Full Stack Web developer🎯 and Coder.
 
 - 👨‍💻 Full Stack MERN Developer
-- 🎥 Learn Web Development from me [@RoadsideCoder](https://www.youtube.com/roadsidecoder) <!-- - 🌱 Currently learning Svelte. -->
-- 📚 What do I believe? Jack of all, Master of some.
-- 📫 How to reach me: [Instagram](https://instagram.com/roadsidecoder) - [@Piyush_eon](https://instagram.com/piyush_eon) or [@RoadsideCoder](https://instagram.com/roadsidecoder)
-- 🎙 Freelance [Voice Over Artist](https://piyushvo.netlify.app/).
+- 👨‍💻 Coder, Problem Solver
+- 📫 How to reach me: [Instagram](https://www.instagram.com/pranshu__patel/?igsh=MTltOHJzZHhpZ2VuMg%3D%3D) 
 
 **Languages:**  
 
@@ -18,21 +16,21 @@ A Full Stack Web developer🎯 and designer🎨 from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush-eon&theme=tokyonight&show_icons=true&hide=["issues"])
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-eon&theme=tokyonight&layout=compact)
+![Pranshu's github stats](https://github-readme-stats.vercel.app/api?username=2604pr&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2604pr&theme=tokyonight&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=piyush-eon)
+![](https://komarev.com/ghpvc/?username=2604pr)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
  <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/piyush-eon/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piyush%20Agarwal-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/piyush_eon/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-piyush_eon-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:piyushagarwalvo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-piyushagarwalvo@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/pranshu-patel-7b96b21bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pranshu%20Patel-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/pranshu__patel/?igsh=MTltOHJzZHhpZ2VuMg%3D%3D"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-pranshu__patel-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:pranshupatel833@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pranshupatel833@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
- <!--⭐️ From [Piyush Agarwal](https://github.com/piyush-eon)-->
+ <!--⭐️ From [Pranshu Patel](https://github.com/2604pr)-->
 
 
 
